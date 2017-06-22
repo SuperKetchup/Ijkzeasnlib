@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="tv.danmaku.ijk.media.player_arm64"
+    tools:overrideLibrary="tv.danmaku.ijk.media.player_arm64"
+    >
+
+    <uses-sdk
+        android:minSdkVersion="9" />
+
+</manifest>

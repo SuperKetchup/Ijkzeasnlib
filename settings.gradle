@@ -1,0 +1,2 @@
+include ':ijkplayer-x86_64', ':ijkplayerarmv7a', ':ijkplayerarmv5', ':ijkplayerarm64',
+    ':ijkzeasnlib', ':ijkplayerx86'
