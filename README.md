@@ -1,6 +1,6 @@
 # Ijkzeasnlib
 
-Build version 0.8.0 whith https
+Build version 0.8.0 with https
 
 Build Environment
 
